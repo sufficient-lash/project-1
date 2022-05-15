@@ -1,0 +1,11 @@
+.p1
+{
+ /* border: solid;    */
+}
+.ptop
+{
+    border: solid;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
